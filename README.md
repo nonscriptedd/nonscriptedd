@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning web development tho!
 - 💞️ I do not think i can collabrate at big projects yet. I am still learning. Besides, who would even post their website on GitHub (Except if it is a starter-pack a-like)?
 - Just call me he/him.
-- ⚡ Fun fact: I DESTROYED my computer trying to install arch linux...
+- ⚡ Fun fact: I DESTROYED my computer trying to install arch linux... But it was fixed! :)
 
 <!---
 nonscriptedd/nonscriptedd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
