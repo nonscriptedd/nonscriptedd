@@ -1,8 +1,9 @@
-- 👋 Hello! I am NonScriptedd_ (or just Scriptedd_). I am normally a web developer, but i of course look at other languages like C or Rust (Because i am also interested in operating systems and low level components.). Also i like Graphic Designing (Gimp 3)!
+- 👋 Hello! I am NonScriptedd_ (or just Scriptedd_). I am normally a web developer, but i of course look at other languages like Python or C (Because i am also interested in data enginering and low level components.). Also i like Graphic Designing (Gimp 3)!
 - 🌱 I’m currently learning web development tho!
-- 💞️ I do not think i can collabrate at big projects yet. I am still learning. Besides, who would even post their website on GitHub (Except if it is a starter-pack a-like)?
+- 💞️ I do not think i can join big projects yet. I am still learning. Besides, who would even post their website on GitHub (Except if it is a starter-pack a-like)? OK, maybe i will.
 - Just call me he/him.
-- ⚡ Fun fact: I DESTROYED my computer trying to install arch linux... But it was fixed! :)
+- ⚡ Fun fact: I have a twin who does python development for data engineering. Check out his profile here:
+  https://github.com/ProgDevelopr
 
 <!---
 nonscriptedd/nonscriptedd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
